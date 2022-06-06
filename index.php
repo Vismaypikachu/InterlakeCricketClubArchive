@@ -68,7 +68,7 @@
                 <th scope="col">Where?</th>
                 <th scope="col">Notes</th>
 
-                <?php
+                <!-- <?php
                     $host = "ibcasserver.mysql.database.azure.com";
                     $username = "ibcasvismay@ibcasserver";
                     $password = "jointechsavvyyouth1!";
@@ -105,7 +105,7 @@
                             }
                         }
                     }
-                ?>
+                ?> -->
             </table>
         </div>
         <br>
